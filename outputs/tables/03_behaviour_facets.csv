@@ -1,0 +1,10 @@
+﻿,answers,na_pct,largest_pct,selected
+model_flattery_challenge,"not_applicable 62.4, mixed 19.2, challenge 10.5, flattery 8.0",62.4,19.2,False
+model_assent_dissent,"not_applicable 51.4, assent 32.5, dissent 16.2",51.4,32.5,False
+model_ingratiation_withdrawal,"withdrawal 42.3, ingratiation 32.0, not_applicable 20.4, mixed 5.2",20.4,42.3,True
+model_encouragement_discouragement,"encouragement 45.8, not_applicable 41.0, mixed 11.2, discouragement 2.0",41.0,45.8,False
+model_neutral_opinionated,"opinionated_stance 56.5, neutral_stance 31.9, not_applicable 11.5",11.5,56.5,False
+model_espousal_facts_norms,"espousal_of_facts 56.6, mixed 20.8, not_applicable 14.7, espousal_of_norms 7.9",14.7,56.6,False
+model_concrete_abstract,"concrete_examples 62.7, mixed 22.1, not_applicable 12.2, abstract_principles 3.0",12.2,62.7,False
+model_conformism_eccentricity,"conformism 72.2, eccentricity 14.4, not_applicable 13.4",13.4,72.2,False
+model_refusal_compliance,"compliance 84.5, not_applicable 12.8, refusal 2.7",12.8,84.5,False

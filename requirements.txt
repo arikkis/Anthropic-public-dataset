@@ -1,0 +1,9 @@
+# Python 3.13 or newer
+# Lower bounds = versions the notebook was tested with.
+# For exact reproduction, replace >= with == and the versions printed in section 1 of the notebook.
+pandas>=3.0.5
+numpy>=2.5.3
+matplotlib>=3.11.2
+datasets>=5.2.0
+jinja2>=3.1.6      # needed by pandas .style (known-groups table)
+jupyter

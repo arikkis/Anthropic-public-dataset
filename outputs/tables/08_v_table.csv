@@ -1,0 +1,12 @@
+﻿user_scale,V_all,V_rated_only,strongest_pair,strongest_involves_na
+entertained,0.269,0.287,ingratiation x not_applicable (-164),True
+enjoyment_change,0.267,0.242,not_applicable x not_applicable (+158),True
+bored,0.158,0.232,ingratiation x 1 (+104),False
+enjoyment_average,0.267,0.222,ingratiation x not_applicable (-163),True
+happy,0.246,0.187,ingratiation x not_applicable (-157),True
+unproductive,0.167,0.167,not_applicable x not_applicable (+123),True
+feel_good,0.232,0.155,ingratiation x not_applicable (-173),True
+curious,0.163,0.153,not_applicable x not_applicable (+88),True
+frustrated,0.198,0.152,not_applicable x not_applicable (+148),True
+absorbed,0.205,0.11,not_applicable x not_applicable (+113),True
+tired,0.117,0.07,not_applicable x not_applicable (+93),True

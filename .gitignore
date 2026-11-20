@@ -1,0 +1,15 @@
+# Drafts and personal notes (not part of the published project)
+*.rtf
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

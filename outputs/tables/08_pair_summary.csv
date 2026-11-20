@@ -1,0 +1,12 @@
+﻿behavior,user_scale,conversations,coverage,suppressed_cells,V_all,V_rated_only,top_cells
+model_ingratiation_withdrawal,user_entertained,245927,1.0,0,0.269,0.287,ingratiation x not_applicable (-164); ingratiation x 5 (+147); not_applicable x not_applicable (+118)
+model_ingratiation_withdrawal,user_enjoyment_change,245927,1.0,0,0.267,0.242,not_applicable x not_applicable (+158); ingratiation x not_applicable (-146); ingratiation x 6 (+138)
+model_ingratiation_withdrawal,user_bored,245927,1.0,0,0.158,0.232,ingratiation x 1 (+104); not_applicable x not_applicable (+91); ingratiation x not_applicable (-71)
+model_ingratiation_withdrawal,user_enjoyment_average,245927,1.0,0,0.267,0.222,ingratiation x not_applicable (-163); ingratiation x 5 (+154); not_applicable x not_applicable (+148)
+model_ingratiation_withdrawal,user_happy,245927,1.0,0,0.246,0.187,ingratiation x not_applicable (-157); not_applicable x not_applicable (+148); ingratiation x 5 (+142)
+model_ingratiation_withdrawal,user_unproductive,245927,1.0,0,0.167,0.167,not_applicable x not_applicable (+123); not_applicable x 1 (-79); ingratiation x 1 (+77)
+model_ingratiation_withdrawal,user_feel_good,245913,1.0,2,0.232,0.155,ingratiation x not_applicable (-173); ingratiation x 5 (+138); not_applicable x not_applicable (+122)
+model_ingratiation_withdrawal,user_curious,245927,1.0,0,0.163,0.153,not_applicable x not_applicable (+88); withdrawal x 2 (+56); ingratiation x not_applicable (-54)
+model_ingratiation_withdrawal,user_frustrated,245927,1.0,0,0.198,0.152,not_applicable x not_applicable (+148); ingratiation x 1 (+77); not_applicable x 2 (-68)
+model_ingratiation_withdrawal,user_absorbed,245927,1.0,0,0.205,0.11,not_applicable x not_applicable (+113); not_applicable x 5 (-89); not_applicable x 1 (+62)
+model_ingratiation_withdrawal,user_tired,245927,1.0,0,0.117,0.07,not_applicable x not_applicable (+93); withdrawal x not_applicable (-64); not_applicable x 4 (-49)

@@ -1,0 +1,27 @@
+﻿facet,n_values,values,missing_share
+model_assent_dissent,3,"assent, dissent, not_applicable",0.014
+model_concrete_abstract,4,"abstract_principles, concrete_examples, mixed, not_applicable",0.073
+model_conformism_eccentricity,3,"conformism, eccentricity, not_applicable",0.03
+model_encouragement_discouragement,4,"discouragement, encouragement, mixed, not_applicable",0.094
+model_espousal_facts_norms,4,"espousal_of_facts, espousal_of_norms, mixed, not_applicable",0.044
+model_flattery_challenge,4,"challenge, flattery, mixed, not_applicable",0.037
+model_ingratiation_withdrawal,4,"ingratiation, mixed, not_applicable, withdrawal",0.037
+model_neutral_opinionated,3,"neutral_stance, not_applicable, opinionated_stance",0.038
+model_refusal_compliance,3,"compliance, not_applicable, refusal",0.089
+topic_category,8,"chatbots_and_generative_ai, education, entertainment, gaming, news_and_journalism, other, retail_and_ecommerce, social_media_and_video",0.266
+user_absorbed,7,"1, 2, 3, 4, 5, 6, not_applicable",0.136
+user_bored,7,"1, 2, 3, 4, 5, 6, not_applicable",0.252
+user_challenged,5,"1, 2, 3, 4, not_applicable",0.504
+user_curious,7,"1, 2, 3, 4, 5, 6, not_applicable",0.105
+user_enjoyment_average,7,"1, 2, 3, 4, 5, 6, not_applicable",0.222
+user_enjoyment_change,7,"1, 2, 3, 4, 5, 6, not_applicable",0.155
+user_entertained,7,"1, 2, 3, 4, 5, 6, not_applicable",0.204
+user_feel_good,7,"1, 2, 3, 4, 5, 6, not_applicable",0.318
+user_frustrated,7,"1, 2, 3, 4, 5, 6, not_applicable",0.194
+user_happy,7,"1, 2, 3, 4, 5, 6, not_applicable",0.245
+user_prefer_not_to_visit_again,7,"1, 2, 3, 4, 5, 6, not_applicable",0.548
+user_recommend_to_friend,7,"1, 2, 3, 4, 5, 6, not_applicable",0.205
+user_recommend_to_future_self,7,"1, 2, 3, 4, 5, 6, not_applicable",0.218
+user_return_in_own_time,7,"1, 2, 3, 4, 5, 6, not_applicable",0.168
+user_tired,7,"1, 2, 3, 4, 5, 6, not_applicable",0.279
+user_unproductive,7,"1, 2, 3, 4, 5, 6, not_applicable",0.248

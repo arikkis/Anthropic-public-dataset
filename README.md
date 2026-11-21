@@ -70,3 +70,6 @@ Full reference list in the [report](report.md#references).
 
 **Author:** Arkadij Kisielius
 Data: [Anthropic/enabling-independent-research](https://huggingface.co/datasets/Anthropic/enabling-independent-research), CC BY 4.0.
+
+## The use of AI
+I have used ClaudeAI as an assistant for coding, visualizing data, drafting the report and for discussing interpretations of the results. The research questions, variable choices, analysis plan and conclusions are my own.
